@@ -6,9 +6,9 @@ Our emergency response systems are broken. Call center employees are being overw
 
 **Lives are on the line.** There needs to be a better system.
 
-## 🤖 What is Triage.AI?
+## 🤖 What is ResQ AI?
 
-**Triage.AI** is an AI-powered emergency dispatch system that:
+** ResQ AI** is an AI-powered emergency dispatch system that:
 
 - ✅ **Answers calls immediately** with intelligent AI chatbot
 - ✅ **Extracts critical information** (emergency type, location, caller name, phone)
@@ -255,12 +255,6 @@ curl http://localhost:3001/call/[CALL_ID]
 
 ---
 
-## 📚 Resources
-
-- **YouTube Teaser:** https://youtu.be/-eSjK2SEQs8
-- **Code Walkthrough:** https://youtu.be/P1M8P3_h7i8
-- **Transformers Explanation:** https://youtu.be/-a1bnmWAb_Y
-- **Medium Article:** https://medium.com/p/88b964377042
 
 ---
 
