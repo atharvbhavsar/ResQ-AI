@@ -1,4 +1,4 @@
-# Triage.AI - Advanced Emergency Dispatch System
+# ResQ -AI - Advanced Emergency Dispatch System
 
 ## 🚨 Project Overview
 
@@ -322,7 +322,9 @@ To revolutionize emergency dispatch by:
 
 ## ⚠️ Disclaimer
 
-Triage.AI is a **supplementary system** designed to assist dispatchers, not replace them. All critical decisions should be verified by trained emergency dispatch personnel. In case of doubt, always prioritize life-saving action.
+ResQ.AI is a **supplementary system** designed to assist dispatchers, not replace them. All critical decisions should be verified by trained emergency dispatch personnel. In case of doubt, always prioritize life-saving action.
+
+Demo Video Link:https://youtu.be/3jPz0feIYIQ?si=X5abnIzkKbvLHTVN
 
 ---
 
