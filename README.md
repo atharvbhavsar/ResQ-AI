@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💼 Author
 
-**Vinaya Sharma** - Created TriageAI to help save lives in emergency response.
+**Atharv Bhavsar** - Created ResQ-AI to help save lives in emergency response.
 
 ---
 
